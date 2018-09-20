@@ -5,8 +5,6 @@ This ros package holds msg files used by [fiware_ros_turtlebot3_bridge](https://
 
 * [r_ros.msg](/msg/r_pos.msg)
     * a message file for the position of turtlebot3 (`x`, `y`, `z`, `theta`)
-* [r_battery_state.msg](/msg/r_battery_state.msg)
-    * a message file for the battery state of turtlebot3 (`voltate`, `current`, `charge`, `capacity`, `design_capacity`, `percentage`)
 
 ## Requirement
 
