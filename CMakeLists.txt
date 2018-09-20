@@ -50,7 +50,6 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   r_pos.msg
-  r_battery_state.msg
 )
 
 ## Generate services in the 'srv' folder
