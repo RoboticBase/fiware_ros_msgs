@@ -1,4 +1,4 @@
-# fiware_ros_turtlebot3_msgs
+# fiware_ros_msgs
 This ros package holds msg files used by [fiware_ros_bridge](https://github.com/ryo-ma/fiware_ros_bridge)
 
 ## Description
